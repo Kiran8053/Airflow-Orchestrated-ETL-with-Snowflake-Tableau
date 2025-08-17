@@ -82,7 +82,7 @@ Below is the view of data model modified in PowerBI desktop.
 
 # PowerBI report:
 
-After all steps done a PBI report emerges, below screenshot shows report created, Explanations regarding visuals shown on screenshot. Used PowerBI Desktop PBIX file can be found on attachment (marketing_example_2.pbix - https://github.com/Giray18/etl-s3-airflow-snowflake-marketing-data/blob/960e2cff0f0e218d31bc145b7d933cd87cb423f5/marketing_example_2.pbix) 
+After all steps done a PBI report emerges, below screenshot shows report created, Explanations regarding visuals shown on screenshot. Used PowerBI Desktop PBIX file can be found on attachment (marketing_example_2.pbix - https://drive.google.com/file/d/14PhIwEFu6TdWTbboyX5IOzfxVfV0Na1m/view?usp=drive_link
 Report will refresh itself aligned with ETL process refresh schedule. As a result, users will see data as daily updated.
 
 ![picture alt](report-overview.jpg)
